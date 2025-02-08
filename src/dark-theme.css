@@ -80,15 +80,16 @@ body {
   
 
   .btn-dark {
-    background-color: #262626;
-    border-color: #262626;
+    background-color: #e99401;
+    border-color: #e99401;
     color: #fff;
     text-transform: uppercase;
+    border-radius: 5px;
   }
   
   .btn-dark:hover {
-    background-color: #474747;
-    border-color: #3c3c3c;
+    background-color: #fdb22f;
+    border-color: #ffb941;
     transition: background-color 0.3s ease;
   }
   
